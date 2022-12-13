@@ -3,9 +3,9 @@
 
 You think Dark souls 2 is already easy right? Even in the bosses you've faced and died a few times there are still people who say "I passed first"it's your time to shine Mr/Mrs Gamer.
 
-Try not die!
+![Try not die!](https://github.com/SrShadowy/DSII-SOTFS-DIE-COUNT/blob/main/Morteboba.mp4)
 
-https://github.com/SrShadowy/DSII-SOTFS-DIE-COUNT/blob/main/Morteboba.mp4
+
 
 ## 💻 Requirements 📝
 It's necessary to have [".net 6"](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) installed on the machine
