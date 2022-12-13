@@ -55,6 +55,15 @@ Your game needs to be open, and loaded in your save, otherwise it may not appear
 Another thing, it may be the game version, a different version may cause incompatibilities and it may not find the points in the memory to read your death counts
 
 By the way, just open your system's Task Manager, look for DS2_DEATH_COUNT and close it.
+
+## Lets Try dont die so easy
+
+https://user-images.githubusercontent.com/43967231/207263037-62c0648e-9660-481e-be4c-99337cac3188.mp4
+
+
+https://user-images.githubusercontent.com/43967231/207263006-8148d11a-dab9-4e40-bb48-7325890739c3.mp4
+
+
 ## 🙋Feedback 🙋‍♀️ 
 
 If you have any Feedback for improvement and/or addition you can contact me at [twitter](https://twitter.com/SrShadowy)
