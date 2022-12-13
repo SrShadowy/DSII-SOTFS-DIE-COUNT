@@ -3,7 +3,7 @@
 
 You think Dark souls 2 is already easy right? Even in the bosses you've faced and died a few times there are still people who say "I passed first"it's your time to shine Mr/Mrs Gamer.
 
-[Try not die!](https://i.imgur.com/bPUnzv4.gif)(https://raw.githubusercontent.com/SrShadowy/DSII-SOTFS-DIE-COUNT/main/Morteboba.mp4)
+![Try not die!](https://i.imgur.com/bPUnzv4.gif)(https://raw.githubusercontent.com/SrShadowy/DSII-SOTFS-DIE-COUNT/main/Morteboba.mp4)
 
 
 
