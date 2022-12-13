@@ -5,7 +5,7 @@ You think Dark souls 2 is already easy right? Even in the bosses you've faced an
 
 Try not die!
 
-![Video](https://i.imgur.com/vv6JseI.mp4)
+https://github.com/SrShadowy/DSII-SOTFS-DIE-COUNT/blob/main/Morteboba.mp4
 
 ## 💻 Requirements 📝
 It's necessary to have [".net 6"](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) installed on the machine
